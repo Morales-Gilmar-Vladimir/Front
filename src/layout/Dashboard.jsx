@@ -20,7 +20,7 @@ const Dashboard = () => {
 
                 <h2 className='text-4xl font-black text-center text-slate-200'>MATRICULAS EPN</h2>
 
-                <img src="../src/assets/libro.png" alt="img-client" className="m-auto mt-8 p-1 border-2 border-slate-500 rounded-full" width={120} height={120} />
+                <img src="../src/assets/libro2.png" alt="img-client" className="m-auto mt-8 p-1 border-2 border-slate-500 rounded-full" width={120} height={120} />
                 <p className='text-slate-400 text-center my-4 text-sm'> <span className='bg-green-600 w-3 h-3 inline-block rounded-full'></span> Bienvenido - {auth?.nombre}</p>
                 <p className='text-slate-400 text-center my-4 text-sm'> Rol - {auth?.rol}</p>
                 <hr className="mt-5 border-slate-500" />
