@@ -4,6 +4,7 @@ import Mensaje from '../componets/Alertas/Mensaje';
 import { useParams } from 'react-router-dom';
 import AuthContext from '../context/AuthProvider';
 
+
 const Vizualizar = () => {
     const { id } = useParams();
     const [estudiante, setEstudiante] = useState({});
