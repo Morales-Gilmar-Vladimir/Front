@@ -40,10 +40,7 @@ const Vizualizar = () => {
                         <>
                             <div className='m-5 flex justify-between'>
                              <div className='m-5'>
-                                <p className="text-md text-gray-00 mt-4">
-                                    <span className="text-gray-600 uppercase font-bold">* Nombre del estudiante: </span>
-                                    {matriculas.nombre}
-                                </p>
+
                                 <p className="text-md text-gray-00 mt-4">
                                     <span className="text-gray-600 uppercase font-bold">* Código de la matrícula: </span>
                                     {matriculas.codigo}
@@ -51,14 +48,6 @@ const Vizualizar = () => {
                                 <p className="text-md text-gray-00 mt-4">
                                     <span className="text-gray-600 uppercase font-bold">* Descripción: </span>
                                     {matriculas.descripcion}
-                                </p>
-                                <p className="text-md text-gray-00 mt-4">
-                                    <span className="text-gray-600 uppercase font-bold">* Cédula del estudiante: </span>
-                                    {matriculas.cedula}
-                                </p>
-                                <p className="text-md text-gray-00 mt-4">
-                                    <span className="text-gray-600 uppercase font-bold">* Código de la materia: </span>
-                                    {matriculas.codigoMateria}
                                 </p>
                                 </div>
                                 <div>

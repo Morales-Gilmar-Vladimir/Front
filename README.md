@@ -1,30 +1,12 @@
-# Plantilla para proyectos de react
+# Pruebas FRONTEND
+Esta plantilla fue sacada previamente de un repositorio creado en clases con el Ing. Byron Loarte
+y previamente fue presentado como proyecto final como se ve acontinuacion "https://github.com/Ruizerick26/Fullstack.git"
 
-Landing Page
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-1.png)
+# PRUEBAS DE RENDIMIENTO
+
+# MOVIL Y WEB
+
+https://pagespeed.web.dev/analysis/https-matriculasepn-netlify-app/63rfklp3ra?form_factor=mobile 
 
 
-Login
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-2.png)
 
-Register
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-3.png)
-
-Forgot Password
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-4.png)
-
-Confirm email
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-6.png)
-
-Not Found
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-5.png)
-
-Dashboard
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-7.png)
